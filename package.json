@@ -16,7 +16,7 @@
     "element-ui": "^2.4.11",
     "js-cookie": "^2.2.0",
     "lodash": "^4.17.11",
-    "nuxt": "^2.4.0",
+    "nuxt": "^2.15.8",
     "web-storage-cache": "^1.0.3"
   },
   "devDependencies": {
